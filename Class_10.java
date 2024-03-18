@@ -25,3 +25,7 @@ class WEEK1 {
         System.out.println(Student.count);
     }
 }
+
+
+
+//Using this helps to explicitly state that you're referring to an instance variable, which can be especially useful when there's a local variable with the same name. This distinction helps prevent potential confusion and ensures that your code behaves as intended.
